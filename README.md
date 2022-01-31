@@ -26,3 +26,9 @@ timestamp: The timestamp for when the action occurred
 You should not spend more than two hours on this task. Ensure that the solution is efficient and
 well tested. The choice of language and toolkit is up to you. The ideal solution should not have any
 external dependencies.
+
+## Solution
+
+The solution follows this flow diagram.
+
+![FlowDiagram](https://github.com/Wuj94/hitcounter/blob/b83572311ef3642945e6274cdf3162a5774c299a/Cloud%20Diagram%20-%20View%20Counter.png)
